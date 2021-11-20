@@ -1,0 +1,280 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "CunnyJuice",
+      "type": "food",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cunny_juice"
+    },
+    {
+      "name": "LoliPanties",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "loli_panties"
+    },
+    {
+      "name": "HolyCunnyDimension",
+      "type": "dimension",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "holy_cunny_dimension"
+    },
+    {
+      "name": "Cunnyseur",
+      "type": "tab",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cunnyseur"
+    },
+    {
+      "name": "CunnyPriest",
+      "type": "mob",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cunny_priest"
+    },
+    {
+      "name": "ATrueCunnyseur",
+      "type": "achievement",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "a_true_cunnyseur"
+    },
+    {
+      "name": "CunnyArmor",
+      "type": "armor",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cunny_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Cunnystone",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cunnystone"
+    },
+    {
+      "name": "Lolicop",
+      "type": "mob",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lolicop"
+    },
+    {
+      "name": "Loli",
+      "type": "mob",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "loli"
+    },
+    {
+      "name": "Pantycoffee",
+      "type": "food",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pantycoffee"
+    },
+    {
+      "name": "Cunnytea",
+      "type": "food",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cunnytea"
+    },
+    {
+      "name": "Cunncalibur",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cunncalibur"
+    },
+    {
+      "name": "Loliknight",
+      "type": "achievement",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "loliknight"
+    },
+    {
+      "name": "Cunbux",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cunbux"
+    },
+    {
+      "name": "OldHag",
+      "type": "mob",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "old_hag"
+    },
+    {
+      "name": "BlessingofaLoli",
+      "type": "enchantment",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blessingofa_loli"
+    },
+    {
+      "name": "Lolipantiesrecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lolipantiesrecipe"
+    },
+    {
+      "name": "Animalsemen",
+      "type": "potion",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "animalsemen"
+    },
+    {
+      "name": "Holygrounds",
+      "type": "biome",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "holygrounds"
+    },
+    {
+      "name": "Boobasword",
+      "type": "tool",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "boobasword"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "moan",
+      "file": "anime-moan-meme",
+      "category": "master"
+    },
+    {
+      "name": "baka",
+      "file": "baka_m2ztwdh",
+      "category": "master"
+    },
+    {
+      "name": "oniichan",
+      "file": "screenrecord_2015-06-17-19-00-59",
+      "category": "master"
+    },
+    {
+      "name": "starlog",
+      "file": "01_starlog",
+      "category": "master"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.biggusmode.holy_cunny_dimension": "Holy Cunny Dimension Portal Igniter",
+      "effect.animalsemen": "zoophilia",
+      "advancements.a_true_cunnyseur.descr": "You have proven to be a enjoyer of cunny.",
+      "item.biggusmode.cunny_priest": "Cunny Priest Spawn Egg",
+      "item.biggusmode.loli": "Loli Spawn Egg",
+      "item.biggusmode.cunncalibur": "Cunn\u0027calibur",
+      "item.biggusmode.cunny_juice": "Cunny Juice",
+      "enchantment.biggusmode.blessingofa_loli": "Blessing Of A Loli",
+      "advancements.a_true_cunnyseur.title": "A True Cunnyseur",
+      "block.biggusmode.cunnystone": "Cunnystone",
+      "advancements.loliknight.descr": "Finding the holy sword.",
+      "item.minecraft.lingering_potion.effect.animalsemen": "Lingering Animalsemen",
+      "item.minecraft.tipped_arrow.effect.animalsemen": "Arrow of Animalsemen",
+      "item.biggusmode.cunny_armorbody": "Cunny Armor Body",
+      "item.biggusmode.cunny_armor_chestplate": "Cunny Armor Body",
+      "item.biggusmode.lolicop": "Loli cop Spawn Egg",
+      "advancements.loliknight.title": "Loli Knight",
+      "item.minecraft.splash_potion.effect.animalsemen": "Splash Animalsemen",
+      "item.biggusmode.cunnytea": "Cunny Tea",
+      "item.biggusmode.cunny_armorhelmet": "Cunny Armor Helmet",
+      "item.biggusmode.cunny_armorboots": "Cunny Armor Boots",
+      "entity.biggusmode.lolicop": "Loli cop",
+      "item.biggusmode.cunny_armorlegs": "Cunny Armor Leggings",
+      "item.biggusmode.cunny_armor_leggings": "Cunny Armor Leggings",
+      "itemGroup.tabcunnyseur": "Cunnyseur",
+      "item.biggusmode.pantycoffee": "Cunny Coffee",
+      "item.biggusmode.loli_panties": "Loli Panties",
+      "entity.biggusmode.cunny_priest": "Cunny Priest",
+      "item.biggusmode.old_hag": "Old Hag Spawn Egg",
+      "item.minecraft.potion.effect.animalsemen": "Animalsemen",
+      "item.biggusmode.boobasword": "Booba Sword",
+      "entity.biggusmode.old_hag": "Old Hag",
+      "entity.biggusmode.loli": "Loli",
+      "item.biggusmode.cunny_armor_boots": "Cunny Armor Boots",
+      "item.biggusmode.cunbux": "Cunbux",
+      "item.biggusmode.cunny_armor_helmet": "Cunny Armor Helmet"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "biggusmode",
+    "modName": "BiggusMode",
+    "version": "1.0.0",
+    "author": "anon, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.biggusmode",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}
